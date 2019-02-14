@@ -11,5 +11,5 @@ The 'dynamic_translation', 'dynamic_rotation' and 'dynamic_6dof' recordings from
 
 If you use these annotatations, cite the paper below:
 
-“Long-term Object Tracking with a Moving Event Camera”, Bharath Ramesh, Zhang Shihao, Jonathan Lee Wei, Zhi Gao, Garrick Orchard and Xiang Cheng, British Machine Vision Conference (BMVC 2018) .
+    “Long-term Object Tracking with a Moving Event Camera”, Bharath Ramesh, Zhang Shihao, Jonathan Lee Wei, Zhi Gao, Garrick Orchard and Xiang Cheng, British Machine Vision Conference (BMVC 2018) .
 
